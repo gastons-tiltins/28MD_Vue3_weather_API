@@ -1,6 +1,6 @@
-# Vue3 weather API by Country names with Celsius to Fahrenheit toggle
+## Vue3 weather API by Country names with Celsius to Fahrenheit toggle
 
-## Instructions:
+### Instructions:
 
 ```
 Node.js is required on your system. 
